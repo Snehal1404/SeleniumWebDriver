@@ -15,7 +15,7 @@ namespace Payback_Po.StepDefinition
         {
 
             //Launching Browser & App code is given in ApplicationHooks.cs file
-            Console.WriteLine(ValidatePageTitle());
+            Console.WriteLine(ValidatePage());
         }
 
 
